@@ -1,0 +1,11 @@
+Package: SLRpg
+Type: Package
+Title: SLR
+Version: 1.0
+Date: 2021-02-05
+Author: Mos
+Maintainer: Mos <wenqindu@colostate.edu>
+Description: SLR hello world.
+License: What license is it under?
+Imports: Rcpp (>= 1.0.6)
+LinkingTo: Rcpp, RcppArmadillo
